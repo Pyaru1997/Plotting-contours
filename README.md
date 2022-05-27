@@ -1,2 +1,2 @@
 # Plotting-contours
-This app can make contours from raw data file
+Contour.exe is an app which was build using python. This app reads the data from text file and example text file " " is given 
